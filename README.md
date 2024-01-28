@@ -27,4 +27,4 @@ A inversão de controle refere-se à mudança de controle de uma aplicação de 
 3. Execute a classe `Main`.
 4. Observe a saída no console ou o arquivo gerado, dependendo da implementação de `Impressora` escolhida.
 
-OBS: Experimente alternar entre as implementações de `Impressora` na classe `Main` para observar a flexibilidade proporcionada pela Injeção de Dependência.
+**OBS:** Experimente alternar entre as implementações de `Impressora` na classe `Main` para observar a flexibilidade proporcionada pela Injeção de Dependência.
